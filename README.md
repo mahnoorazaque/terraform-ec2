@@ -1,1 +1,1 @@
-# terraform-ec2
+# EC2-Setup using Terraform
